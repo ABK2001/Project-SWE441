@@ -2,5 +2,7 @@ public class MainApplication {
     public static void main(String[] args) {
         System.out.println("Application Running...");
         System.out.println("SCRAM1");
+        System.out.println("hi");
+
     }
 }
