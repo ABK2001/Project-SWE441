@@ -8,6 +8,7 @@ public class MainApplication {
         // You can replace this with your actual application code
         System.out.println("End of SCRUM1");
         System.out.println("SCRUM2");
+        System.out.println("End of SCRUM2");
 
     }
 }
