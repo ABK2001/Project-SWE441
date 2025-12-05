@@ -1,13 +1,13 @@
 public class MainApplication {
     public static void main(String[] args) {
         System.out.println("Application Running...");
-        System.out.println("SCRAM1");
+        System.out.println("SCRUM1");
         // Additional application logic can be added here
         // For example, initializing components, starting services, etc.
         // This is a placeholder for the main application logic
         // You can replace this with your actual application code
-        System.out.println("End of SCRAM1");
-        System.out.println("SCRAM2");
+        System.out.println("End of SCRUM1");
+        System.out.println("SCRUM2");
 
     }
 }
